@@ -1,0 +1,24 @@
+{
+  "name": "dndapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-Baranenkov/drag_drop_file_loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-Baranenkov/drag_drop_file_loader/issues"
+  },
+  "homepage": "https://github.com/Sergey-Baranenkov/drag_drop_file_loader#readme"
+}
