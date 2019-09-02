@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0; }
+
+body, html {
+  overflow: hidden;
+  height: 100%; }
+
+#DragContext {
+  display: inline-block;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  line-height: 100vh; }
+  #DragContext h1 {
+    color: grey; }
+
+.highlight {
+  border: 5px dashed grey; }
+
+/*# sourceMappingURL=style.css.map */
